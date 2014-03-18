@@ -420,7 +420,7 @@ namespace TEE
             {
                 gba.WriteBytes(foresight.ToArray());
             }
-            gba.WriteBytes(new byte[] { 0xFF, 0xFF, 0xFF });
+            gba.WriteBytes(new byte[] { 0xFF, 0xFF, 0x00 });
 
             return true;
         }
