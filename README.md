@@ -1,7 +1,7 @@
-Type Effectiveness Editor
--------------------------
-Copyright 2014 eien no itari
+Type Effectiveness Editor 3.0 (BETA)
+------------------------------------
+Copyright 2014 itari
 
 Type Effectiveness Editor is a simple tool that allows for the editing of the type effectiveness table in the the 3rd Generation Pokémon games.
 
-As a bonus, it also includesa type name editing feature!
+Features the editing of type effectiveness, type names, and now even adding/removal of types!
