@@ -1,6 +1,6 @@
 Type Effectiveness Editor 3.0 (BETA)
 ------------------------------------
-Copyright 2014 itari
+Copyright 2014-2015 Hopeless Masquerade
 
 Type Effectiveness Editor is a simple tool that allows for the editing of the type effectiveness table in the the 3rd Generation Pokémon games.
 
