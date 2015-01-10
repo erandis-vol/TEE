@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Type Effectiveness Editor")]
 [assembly: AssemblyDescription("Type Effectiveness Editor 3.0")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("itari")]
+[assembly: AssemblyCompany("Hopless Masquerade")]
 [assembly: AssemblyProduct("Type Effectiveness Editor")]
-[assembly: AssemblyCopyright("Copyright © itari 2014")]
+[assembly: AssemblyCopyright("Copyright © Hopeless Masquerade 2014-2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

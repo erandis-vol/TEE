@@ -67,11 +67,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(140, 22);
+            this.label3.Location = new System.Drawing.Point(90, 22);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(152, 26);
+            this.label3.Size = new System.Drawing.Size(250, 26);
             this.label3.TabIndex = 11;
-            this.label3.Text = "Version 3.0 BETA (11/1/2014)\r\nCopyright (c) 2014 itari";
+            this.label3.Text = "Version 3.0 BETA (1/9/2015)\r\nCopyright (c) 2014-2015 itari/Hopeless Masquerade";
             this.label3.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // label2
