@@ -1,4 +1,4 @@
-Type Effectiveness Editor 3.0 (BETA)
+Type Effectiveness Editor 3.0
 ------------------------------------
 Copyright 2014-2015 Hopeless Masquerade
 
